@@ -1,0 +1,13 @@
+{
+    "name": "close-others",
+    "title": "Close Others",
+    "description": "This will give you additional options like Close others, Close top and bottom files to operate 'Working Files' section efficiently",
+    "homepage": "https://github.com/sathyamoorthi/brackets-close-others",
+    "version": "1.0.0",
+    "author": "Sathyamoorthi<sathyamoorthi10@gmail.com>",
+    "files": [
+        "main.js",
+        "settings.json",
+        "README.md"
+    ]
+}
